@@ -3,7 +3,7 @@ import './possiblity.css';
 
 const Possiblity = () => {
   return (
-    <div>Branding</div>
+    <div>Possiblity</div>
   )
 }
 
